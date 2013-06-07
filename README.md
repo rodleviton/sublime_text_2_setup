@@ -22,3 +22,10 @@ Hit Ctrl + ` to open the console
 **Step 3:**
 *Install Theme*
 
+*Theme - Phoenix
+
+**Step 4:**
+*Update preferences*
+
+*Preferences.sublime-settings
+    
